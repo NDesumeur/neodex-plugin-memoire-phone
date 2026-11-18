@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.memoire",
+  "repo": "NDesumeur/neodex-plugin-memoire-phone",
+  "version": "1.0.0",
+  "sha256": "7e2a85bd6500bd4da8cc3055e67798647f51504620dee19a8498c3d1bd20b67f",
+  "approvedAt": "2026-11-18T18:56:04.295Z",
+  "neobase": ">=4.0.0",
+  "signature": "lxDMylMWHRz9+PbWKFludNRVLmDjEB6ziokDvsxg2DmxOJg1uENQex5zX/nXEohIhcokLF8pHBubENxQJ3VMAw=="
+}
