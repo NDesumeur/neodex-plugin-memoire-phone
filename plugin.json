@@ -1,7 +1,7 @@
 {
   "id": "neodex.memoire",
   "name": "Mémoire",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "NDesumeur",
   "description": "Le jeu de mémoire avec les logos de NeoDex : retourne les cartes deux par deux et retrouve toutes les paires en un minimum de coups. De 6 à 24 paires, logos tirés au hasard à chaque partie, chrono, et record de coups pour chaque taille. Pixel art : cartes au dos décoré qui se retournent pour de vrai, plateau à la taille de l'écran, plein écran, clavier et manette.",
   "icon": "icon.png",
@@ -13,8 +13,8 @@
   "compatibility": [
     "android"
   ],
-  "syncMode": "progression",
-  "syncInfo": "Records.",
+  "syncMode": "aucune",
+  "syncInfo": "Rien n'est synchronisé : tes records restent sur cet appareil.",
   "mobile": true,
   "system": false,
   "dependencies": {},
